@@ -10,5 +10,6 @@ public class demo01 {
         }
         System.out.println("it is a amazing");
         System.out.println("what can i do for you?");
+        System.out.println("111");
     }
 }
